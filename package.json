@@ -1,0 +1,10 @@
+{
+  "name": "japanese-vocab-notebook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "python3 -m http.server 5173 --bind 127.0.0.1",
+    "test": "node tests/utils.test.js"
+  }
+}
